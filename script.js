@@ -54,7 +54,7 @@ ScrollReveal().reveal('.home-content h1', { origin: 'left' });
 
 /*------typed.js----*/
 const typed = new Typed('.multiple-text', {
-    strings: ['Java FullStack Developer', 'Frontend Developer'],
+    strings: ['Java FullStack Developer', 'Software Engineer'],
     typeSpeed: 100,
     backSpeed: 50,
     backDelay: 1000,
